@@ -1,0 +1,38 @@
+.icons {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 0.3em;
+    vertical-align: middle;
+}
+span {
+    vertical-align: middle;
+    font-size: 30px;
+    padding: 30px;
+}
+.userid {
+    font-size: 25px;
+    margin: 0px, 30px;
+    justify-content: center;
+    display: flex;
+    vertical-align: middle;
+    color: blue;
+    font-weight: bold;
+}
+.login {
+    float: right;
+}
+.timeline {
+    text-align: center;
+}
+body {
+    color: #22e0ff;
+    text-shadow: 0 -40px 100px, 0 0 2px, 0 0 1em #fff, 0 0 0.5em #fff, 0 0 0.1em #fff, 0 10px 3px #000;
+    background-color: #000000;
+}
+.tweet {
+    font-size: 25px;
+    font-family: helvetica;
+    margin-top: -10px;
+    border-bottom: solid, 1px, #c0c0c0
+}
